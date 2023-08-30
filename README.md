@@ -30,3 +30,8 @@ Email: cassio.acarvalho@gmail.com
    <img align="center" alt="node" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
   <img align="center" alt="express" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
  <img align="center" alt="mongodb" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb">
+ <img align="center" alt="python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python">
+ <img align="center" alt="pandas" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas">
+ <img align="center" alt="scikitlearn" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" title="scikitlearn">
+ <img align="solidity" alt="scikitlearn" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="solidity">
+ 
