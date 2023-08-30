@@ -12,7 +12,6 @@ I have experience in strategic marketing, web development, data analysis, and bl
 
 LinkedIn: https://www.linkedin.com/in/cassiocarvalho/
 
-Email: cassio.acarvalho@gmail.com
 
 
 <div style="display: inline_block"><br>
