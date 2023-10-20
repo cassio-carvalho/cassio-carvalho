@@ -1,6 +1,6 @@
 👋 Hey there, I'm Cássio Carvalho!
 
-🌱 Enthusiastic Full Stack Web Developer & Marketer
+🌱 Marketer & Enthusiastic Full Stack Web Developer
 
 👀 Professional oriented towards managing technology and content creation teams using agile methodologies.
 
